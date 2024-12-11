@@ -1,0 +1,20 @@
+{
+  "name": "marketlookup",
+  "version": "1.0.0",
+  "description": "Struggling to find all the latest news and analysis for a specific equity? Look no further!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon BackEnd/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
