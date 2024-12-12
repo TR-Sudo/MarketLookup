@@ -1,0 +1,1 @@
+// Layout of pages will include Navbar as a constant

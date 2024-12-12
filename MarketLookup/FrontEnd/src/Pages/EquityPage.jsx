@@ -1,0 +1,1 @@
+// will show everything of the selected equity
